@@ -51,6 +51,10 @@ form {
   border-radius: 10px;
   box-shadow: 5px 5px #031728;
 }
+
+.hidden {
+  display: none;
+}
 footer {
   margin: 0 auto;
   font-size: 28px;

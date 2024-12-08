@@ -44,9 +44,12 @@ form {
 .poem-container {
   text-align: center;
   font-size: 22px;
+  line-height: 1.5;
   padding: 15px;
   background-color: rgba(250, 235, 215, 0.325);
-  border-radius: 20px;
+  border-left: 4px solid rgb(93, 20, 41);
+  border-radius: 10px;
+  box-shadow: 5px 5px #031728;
 }
 footer {
   margin: 0 auto;

@@ -1,32 +1,58 @@
 body {
-    font-family: "Tomorrow", sans-serif;
-    font-weight: 400;
-    background-image: url("https://i.pinimg.com/originals/92/98/b8/9298b8aa90e9bc71a6162878ee24cbeb.gif");
-    background-repeat: no-repeat;
-    background-size: cover
+  font-family: "Tomorrow", sans-serif;
+  font-weight: 400;
+  background-image: url("https://i.pinimg.com/originals/92/98/b8/9298b8aa90e9bc71a6162878ee24cbeb.gif");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 .app-container {
-    display: block;
-    width: 540px;
-    margin: auto;
-    padding: 80px;
-    background-color:rgba(6, 96, 70, 0.625);
-    border-radius: 20px;
-    border-style: outset;
-    border-color: #031728;
-    box-shadow: 5px 10px #031728;
+  display: block;
+  width: 540px;
+  margin: auto;
+  padding: 80px;
+  background-color: rgba(6, 96, 70, 0.625);
+  border-radius: 20px;
+  border-style: outset;
+  border-color: #031728;
+  box-shadow: 5px 10px #031728;
 }
 header {
-    font-size: 48px;
-    font-weight: 500;
-    text-align: center;
-    color: #A0B1B1;
+  font-size: 48px;
+  font-weight: 500;
+  text-align: center;
+  color: #a0b1b1;
+}
+
+form {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+#form-input {
+  width: 320px;
+  height: 25px;
+  color: black;
+  background-color: white;
+}
+#form-submit {
+  width: 100px;
+  color: white;
+  font-size: 22px;
+  background-color: rgb(93, 20, 41);
+}
+
+.poem-container {
+  text-align: center;
+  font-size: 22px;
+  padding: 15px;
+  background-color: rgba(250, 235, 215, 0.325);
+  border-radius: 20px;
 }
 footer {
-    margin: 0 auto;
-    font-size: 28px;
-    text-align: center;
-    color: black;
-    background-color: rgba(250, 235, 215, 0.500);
-    border-radius: 10px;
+  margin: 0 auto;
+  font-size: 28px;
+  text-align: center;
+  color: black;
+  background-color: rgba(250, 235, 215, 0.5);
+  border-radius: 10px;
 }

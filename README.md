@@ -8,4 +8,4 @@ The aim of this project was to build a functional and beautiful poem generator u
 
 ### A massive vote of thanks to SheCodes and the creator of the [Typewriter.js plugin](https://github.com/tameemsafi/typewriterjs) for enabling me with this amazing learning opportunity. 
 
-[Link to live project page](https://comfy-nougat-dc4268.netlify.app/)
+[Link to live project page](https://poemgenai.netlify.app/)
